@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e4ebf2c6-35bf-43bc-9b2e-3e092a6a0077",
+  "export_job_id": "78fe07b3-235b-45d1-a2e0-f95d48f42fc4",
   "id_short": 220457,
-  "published_at": "2026-04-14T19:04:29Z",
+  "published_at": "2026-04-18T07:37:42Z",
   "repo_name": "the-hhi-monopoly-index-for-columbus-ohio-us-sample-220457",
   "sample_asset_name": "beamstation_220457_restaurants-us-oh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/220457/beamstation_220457_restaurants-us-oh_SAMPLE_DIST.csv",
   "sample_records": 6,
-  "sample_sha256": "630f214899e0477cc9336a4ec7f4973db5ca19d213286c47b322485cb6043f50",
-  "sample_size_bytes": 40301,
-  "total_records": 65
+  "sample_sha256": "46fc3dc623b57442d884657ba5907624d83b6aa0fb78fe15b53cd5e314945eb4",
+  "sample_size_bytes": 37275,
+  "total_records": 63
 }
