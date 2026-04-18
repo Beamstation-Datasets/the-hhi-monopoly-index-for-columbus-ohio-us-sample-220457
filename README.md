@@ -9,9 +9,9 @@
 | Dataset ID | `220457` |
 | Location | Columbus |
 | Category | Restaurants |
-| Full dataset size | 65 records |
-| Free sample size | 6 records (9.23%) |
-| Last export | 2026-04-08T00:25:05.916336+00:00 |
+| Full dataset size | 63 records |
+| Free sample size | 6 records (9.52%) |
+| Last export | 2026-04-15T06:02:35.755504+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-columbus-ohio-us-sample-220457/releases/download/sample-latest/beamstation_220457_restaurants-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
