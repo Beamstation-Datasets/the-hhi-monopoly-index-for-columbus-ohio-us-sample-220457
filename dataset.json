@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for Columbus, Ohio, US",
-  "export_job_id": "d0a3ae30-1c3c-4c02-9c46-7199ef0467d4",
+  "export_job_id": "b795bdcd-5201-4051-941f-15dfe196e80f",
   "github_org": "Beamstation-Datasets",
   "id_short": 220457,
   "location_name": "Columbus",
   "location_type": "city",
   "repo_name": "the-hhi-monopoly-index-for-columbus-ohio-us-sample-220457",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/220457/beamstation_220457_restaurants-us-oh_SAMPLE_DIST.csv",
-  "sample_pct": 9.26,
+  "sample_pct": 8.93,
   "sample_records": 5,
-  "sample_sha256": "633efa642e8e1b1318d78213c40bada62baca8c17cdf1b6300faaa6b558a4f0f",
-  "sample_size_bytes": 33951,
-  "total_records": 54,
-  "updated_at": "2026-04-22T11:59:06.014271+00:00"
+  "sample_sha256": "74024e2655c20dafbd31616fdbd4405ce60cf5f482c3677ef9c3a181b77aa29b",
+  "sample_size_bytes": 36917,
+  "total_records": 56,
+  "updated_at": "2026-04-29T12:58:46.983465+00:00"
 }
